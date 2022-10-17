@@ -1,1 +1,1 @@
-# Jenkins_Terraform_Inetgration
+# Jenkins_Terraform_Integration
